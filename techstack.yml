@@ -2,7 +2,7 @@ repo_name: ss-test-org-Stack-file/ruby
 report_id: 561f9b75fa85ccf50d7da2b359eb5a4f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:08:26+00:00'
+timestamp: '2024-02-29T18:20:31+00:00'
 requested_by: makenowjust
 provider: github
 branch: master
@@ -104,7 +104,7 @@ tools:
   detection_source_url: https://github.com/ss-test-org-Stack-file/ruby
   detection_source: Repo Metadata
 - name: Bundler
-  description: 'A consistent environment for tracking and installing  gems and versions '
+  description: A consistent environment for tracking and installing  gems and versions
   website_url: http://bundler.io
   open_source: false
   hosted_saas: false
